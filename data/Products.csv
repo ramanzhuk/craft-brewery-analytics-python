@@ -1,0 +1,8 @@
+product_id,beer_name,type,abv,list_price_per_liter,base_cost_per_liter
+1,Liguria Lager,Lager,4.8,3.2,1.2
+2,Riviera Pale Ale,Ale,5.2,3.6,1.35
+3,Port Stout,Stout,6,3.9,1.55
+4,Summer Wheat,Wheat,4.5,3.3,1.25
+5,Zero Wave,Non-Alcoholic,0,2.8,1.1
+6,Cherry Breeze,Fruit Beer,2.1,3.1,1.2
+7,Premium Reserve,Premium,5.8,4.5,1.9

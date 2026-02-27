@@ -1,0 +1,490 @@
+batch_id,defect_type,defect_liters,alcohol_pct
+1232,Off-flavor,17,4.5
+1232,Contamination,17,4.5
+1286,Oxidation,14,6
+1286,Packaging defect,15,6
+1314,Off-flavor,29,0
+1321,Contamination,44,5.2
+1388,Fermentation issue,18,6
+1388,Fermentation issue,19,6
+1178,Fermentation issue,35,4.8
+1486,Fermentation issue,37,5.8
+1486,Oxidation,36,5.8
+1411,Fermentation issue,37,4.8
+1055,Packaging defect,47,5.8
+1240,Fermentation issue,24,0
+1235,Packaging defect,29,0
+1422,Oxidation,11,5.2
+1422,Packaging defect,12,5.2
+1167,Contamination,27,5.2
+1312,Contamination,21,6
+1312,Packaging defect,20,6
+1221,Oxidation,27,5.2
+1397,Fermentation issue,19,4.8
+1397,Contamination,19,4.8
+1342,Contamination,15,5.2
+1342,Contamination,16,5.2
+1214,Fermentation issue,39,4.5
+1456,Oxidation,16,4.5
+1456,Packaging defect,17,4.5
+1281,Fermentation issue,15,5.2
+1281,Packaging defect,13,5.2
+1449,Fermentation issue,74,5.8
+1280,Fermentation issue,13,5.2
+1280,Fermentation issue,14,5.2
+1179,Fermentation issue,19,4.8
+1179,Fermentation issue,20,4.8
+1212,Oxidation,38,2.1
+1130,Packaging defect,48,4.5
+1067,Fermentation issue,46,4.5
+1053,Contamination,13,6
+1053,Oxidation,13,6
+1462,Contamination,41,2.1
+1436,Off-flavor,51,4.8
+1431,Oxidation,13,0
+1431,Packaging defect,9,0
+1141,Contamination,20,4.5
+1141,Packaging defect,19,4.5
+1275,Packaging defect,22,4.8
+1275,Packaging defect,23,4.8
+1508,Oxidation,48,4.5
+1425,Fermentation issue,27,0
+1244,Packaging defect,46,4.8
+1440,Packaging defect,24,4.8
+1440,Contamination,25,4.8
+1216,Contamination,14,6
+1216,Off-flavor,13,6
+1183,Contamination,18,5.2
+1183,Fermentation issue,17,5.2
+1077,Packaging defect,15,4.5
+1077,Fermentation issue,13,4.5
+1001,Fermentation issue,33,5.2
+1346,Packaging defect,49,2.1
+1103,Packaging defect,55,5.8
+1420,Contamination,42,2.1
+1317,Fermentation issue,15,5.2
+1317,Contamination,17,5.2
+1018,Fermentation issue,27,4.5
+1294,Contamination,26,5.2
+1294,Packaging defect,27,5.2
+1383,Off-flavor,19,4.5
+1383,Packaging defect,17,4.5
+1522,Oxidation,16,4.5
+1522,Packaging defect,15,4.5
+1100,Contamination,18,5.8
+1100,Fermentation issue,22,5.8
+1028,Fermentation issue,36,2.1
+1175,Contamination,83,5.8
+1285,Packaging defect,18,5.2
+1285,Packaging defect,16,5.2
+1231,Oxidation,43,2.1
+1459,Fermentation issue,29,5.2
+1497,Packaging defect,16,2.1
+1497,Contamination,16,2.1
+1203,Packaging defect,22,0
+1065,Fermentation issue,15,4.5
+1065,Packaging defect,14,4.5
+1495,Fermentation issue,40,5.2
+1391,Packaging defect,29,4.5
+1084,Fermentation issue,18,4.8
+1084,Oxidation,18,4.8
+1120,Fermentation issue,22,5.2
+1120,Fermentation issue,21,5.2
+1131,Fermentation issue,31,4.8
+1176,Oxidation,30,4.5
+1228,Fermentation issue,13,2.1
+1228,Contamination,13,2.1
+1226,Packaging defect,30,0
+1020,Oxidation,14,0
+1020,Oxidation,14,0
+1116,Packaging defect,14,4.8
+1116,Fermentation issue,14,4.8
+1429,Oxidation,27,4.5
+1007,Packaging defect,14,0
+1007,Packaging defect,16,0
+1269,Fermentation issue,48,2.1
+1089,Fermentation issue,18,5.2
+1089,Oxidation,18,5.2
+1461,Fermentation issue,30,4.5
+1386,Oxidation,36,6
+1502,Contamination,23,4.8
+1502,Off-flavor,25,4.8
+1264,Fermentation issue,21,2.1
+1264,Contamination,22,2.1
+1258,Contamination,10,6
+1258,Off-flavor,15,6
+1024,Packaging defect,43,6
+1038,Oxidation,16,5.2
+1038,Packaging defect,18,5.2
+1301,Contamination,19,4.8
+1301,Fermentation issue,19,4.8
+1303,Contamination,27,4.8
+1171,Fermentation issue,25,0
+1282,Packaging defect,13,4.5
+1282,Contamination,13,4.5
+1155,Fermentation issue,29,0
+1023,Fermentation issue,24,5.2
+1023,Packaging defect,23,5.2
+1012,Packaging defect,37,2.1
+1160,Off-flavor,38,5.8
+1160,Contamination,37,5.8
+1032,Oxidation,21,4.5
+1032,Oxidation,20,4.5
+1322,Fermentation issue,36,6
+1072,Packaging defect,19,0
+1350,Contamination,14,4.8
+1350,Contamination,16,4.8
+1488,Oxidation,41,5.8
+1488,Fermentation issue,39,5.8
+1223,Off-flavor,16,4.5
+1223,Packaging defect,19,4.5
+1015,Fermentation issue,31,5.8
+1015,Off-flavor,30,5.8
+1372,Fermentation issue,13,6
+1372,Fermentation issue,15,6
+1205,Oxidation,31,5.2
+1380,Oxidation,35,0
+1199,Off-flavor,16,2.1
+1199,Fermentation issue,15,2.1
+1060,Oxidation,53,2.1
+1519,Packaging defect,12,4.5
+1519,Oxidation,11,4.5
+1066,Oxidation,17,4.8
+1066,Packaging defect,15,4.8
+1489,Oxidation,33,6
+1415,Fermentation issue,14,6
+1415,Fermentation issue,13,6
+1109,Contamination,21,5.8
+1109,Fermentation issue,22,5.8
+1040,Fermentation issue,29,0
+1507,Packaging defect,20,4.8
+1507,Fermentation issue,19,4.8
+1396,Contamination,30,6
+1209,Fermentation issue,14,0
+1209,Off-flavor,14,0
+1041,Packaging defect,14,4.8
+1041,Packaging defect,14,4.8
+1161,Oxidation,40,5.2
+1385,Contamination,21,4.8
+1385,Fermentation issue,21,4.8
+1452,Packaging defect,17,4.5
+1452,Oxidation,17,4.5
+1251,Contamination,19,5.2
+1251,Fermentation issue,21,5.2
+1381,Contamination,41,4.5
+1307,Oxidation,18,0
+1307,Packaging defect,18,0
+1510,Contamination,35,2.1
+1283,Contamination,10,5.2
+1283,Packaging defect,14,5.2
+1438,Packaging defect,46,4.5
+1503,Packaging defect,30,5.2
+1069,Oxidation,33,0
+1014,Contamination,25,2.1
+1014,Packaging defect,27,2.1
+1349,Fermentation issue,13,5.2
+1349,Packaging defect,12,5.2
+1327,Contamination,45,6
+1389,Packaging defect,26,0
+1277,Oxidation,13,4.5
+1277,Contamination,12,4.5
+1432,Contamination,39,6
+1515,Oxidation,19,6
+1515,Contamination,16,6
+1129,Packaging defect,38,2.1
+1173,Packaging defect,30,5.8
+1173,Oxidation,29,5.8
+1362,Oxidation,35,4.8
+1236,Packaging defect,31,2.1
+1152,Fermentation issue,23,4.5
+1152,Packaging defect,22,4.5
+1180,Off-flavor,28,5.8
+1180,Contamination,25,5.8
+1347,Fermentation issue,21,5.8
+1347,Contamination,19,5.8
+1037,Fermentation issue,10,6
+1037,Packaging defect,10,6
+1511,Contamination,37,5.2
+1002,Off-flavor,22,6
+1002,Fermentation issue,22,6
+1025,Off-flavor,22,0
+1025,Fermentation issue,21,0
+1499,Contamination,32,6
+1310,Oxidation,22,0
+1310,Fermentation issue,25,0
+1428,Packaging defect,45,6
+1427,Contamination,55,4.8
+1419,Off-flavor,28,6
+1188,Oxidation,39,5.8
+1188,Fermentation issue,39,5.8
+1117,Fermentation issue,37,0
+1146,Fermentation issue,36,5.8
+1146,Packaging defect,38,5.8
+1304,Packaging defect,39,5.8
+1340,Contamination,23,6
+1340,Off-flavor,22,6
+1483,Packaging defect,42,5.2
+1166,Oxidation,11,4.8
+1166,Contamination,13,4.8
+1365,Fermentation issue,27,2.1
+1365,Contamination,28,2.1
+1337,Packaging defect,32,5.2
+1355,Fermentation issue,46,2.1
+1320,Packaging defect,17,5.2
+1320,Oxidation,15,5.2
+1345,Oxidation,24,4.5
+1345,Contamination,22,4.5
+1265,Oxidation,11,0
+1265,Packaging defect,11,0
+1114,Packaging defect,19,4.5
+1114,Fermentation issue,19,4.5
+1478,Fermentation issue,40,6
+1284,Packaging defect,36,0
+1151,Oxidation,12,2.1
+1151,Contamination,11,2.1
+1068,Contamination,44,4.5
+1357,Packaging defect,13,4.8
+1357,Off-flavor,13,4.8
+1154,Fermentation issue,31,5.2
+1150,Fermentation issue,14,0
+1150,Oxidation,14,0
+1412,Off-flavor,25,4.5
+1374,Oxidation,29,0
+1353,Oxidation,56,4.5
+1198,Contamination,21,2.1
+1198,Fermentation issue,20,2.1
+1335,Oxidation,77,5.8
+1126,Contamination,27,4.5
+1126,Packaging defect,28,4.5
+1371,Oxidation,30,6
+1070,Fermentation issue,16,2.1
+1070,Packaging defect,18,2.1
+1165,Fermentation issue,22,0
+1200,Oxidation,25,2.1
+1200,Contamination,25,2.1
+1513,Fermentation issue,32,5.2
+1500,Off-flavor,19,6
+1500,Fermentation issue,19,6
+1222,Contamination,42,2.1
+1134,Packaging defect,12,6
+1134,Fermentation issue,12,6
+1030,Off-flavor,45,2.1
+1227,Contamination,16,4.8
+1227,Off-flavor,16,4.8
+1417,Packaging defect,13,5.2
+1417,Contamination,12,5.2
+1010,Contamination,16,4.8
+1010,Oxidation,18,4.8
+1305,Contamination,35,5.2
+1451,Fermentation issue,39,5.8
+1451,Contamination,40,5.8
+1017,Contamination,30,2.1
+1517,Oxidation,26,6
+1413,Packaging defect,15,4.8
+1413,Off-flavor,17,4.8
+1230,Fermentation issue,27,4.8
+1382,Off-flavor,44,4.5
+1119,Contamination,17,6
+1119,Oxidation,17,6
+1370,Oxidation,19,5.2
+1370,Packaging defect,19,5.2
+1276,Oxidation,23,5.2
+1276,Oxidation,24,5.2
+1204,Fermentation issue,20,4.5
+1204,Contamination,18,4.5
+1437,Contamination,36,2.1
+1169,Contamination,17,5.2
+1169,Fermentation issue,16,5.2
+1147,Packaging defect,33,4.8
+1029,Contamination,13,4.5
+1029,Oxidation,13,4.5
+1309,Fermentation issue,13,0
+1309,Fermentation issue,12,0
+1142,Oxidation,19,0
+1142,Fermentation issue,20,0
+1297,Oxidation,12,5.2
+1297,Fermentation issue,13,5.2
+1479,Packaging defect,37,4.8
+1384,Packaging defect,34,6
+1193,Fermentation issue,24,4.8
+1259,Packaging defect,19,5.2
+1259,Packaging defect,21,5.2
+1106,Fermentation issue,14,5.2
+1106,Packaging defect,14,5.2
+1094,Fermentation issue,24,4.5
+1267,Off-flavor,28,0
+1215,Fermentation issue,16,0
+1215,Oxidation,18,0
+1331,Packaging defect,15,4.5
+1331,Fermentation issue,16,4.5
+1192,Fermentation issue,15,4.5
+1192,Contamination,16,4.5
+1358,Off-flavor,19,6
+1358,Fermentation issue,20,6
+1003,Oxidation,33,6
+1042,Fermentation issue,35,4.8
+1163,Oxidation,24,4.5
+1163,Oxidation,23,4.5
+1487,Packaging defect,28,5.2
+1170,Oxidation,35,5.8
+1170,Oxidation,33,5.8
+1408,Fermentation issue,29,4.5
+1090,Off-flavor,13,6
+1090,Contamination,13,6
+1518,Contamination,37,5.2
+1480,Oxidation,28,6
+1159,Contamination,23,2.1
+1159,Fermentation issue,23,2.1
+1194,Fermentation issue,37,5.2
+1172,Contamination,14,4.8
+1172,Packaging defect,16,4.8
+1266,Fermentation issue,35,4.5
+1472,Fermentation issue,16,5.2
+1472,Fermentation issue,14,5.2
+1520,Fermentation issue,51,5.8
+1390,Packaging defect,49,5.8
+1291,Fermentation issue,17,4.8
+1291,Oxidation,16,4.8
+1013,Packaging defect,15,4.8
+1013,Fermentation issue,15,4.8
+1482,Contamination,16,4.8
+1482,Contamination,17,4.8
+1376,Off-flavor,29,4.5
+1256,Oxidation,13,0
+1256,Oxidation,14,0
+1118,Contamination,39,4.8
+1182,Fermentation issue,39,6
+1162,Packaging defect,20,4.8
+1162,Off-flavor,19,4.8
+1157,Packaging defect,30,2.1
+1300,Fermentation issue,34,5.8
+1300,Fermentation issue,34,5.8
+1505,Contamination,24,2.1
+1505,Packaging defect,25,2.1
+1332,Packaging defect,31,6
+1225,Packaging defect,19,2.1
+1225,Oxidation,21,2.1
+1006,Oxidation,42,5.8
+1108,Fermentation issue,16,5.2
+1108,Packaging defect,14,5.2
+1400,Packaging defect,19,2.1
+1400,Oxidation,18,2.1
+1054,Oxidation,14,4.8
+1054,Fermentation issue,15,4.8
+1363,Contamination,36,4.5
+1344,Off-flavor,32,4.8
+1035,Fermentation issue,21,5.8
+1035,Fermentation issue,19,5.8
+1174,Fermentation issue,16,2.1
+1174,Fermentation issue,18,2.1
+1423,Off-flavor,16,2.1
+1423,Off-flavor,17,2.1
+1410,Contamination,48,2.1
+1099,Contamination,30,4.8
+1441,Contamination,32,5.2
+1465,Contamination,46,5.2
+1464,Fermentation issue,22,4.8
+1464,Packaging defect,21,4.8
+1112,Off-flavor,22,5.2
+1112,Oxidation,22,5.2
+1268,Packaging defect,13,2.1
+1268,Packaging defect,14,2.1
+1128,Oxidation,39,4.5
+1418,Packaging defect,49,4.8
+1403,Packaging defect,15,4.8
+1403,Off-flavor,16,4.8
+1217,Fermentation issue,24,4.5
+1217,Packaging defect,25,4.5
+1501,Packaging defect,16,6
+1501,Fermentation issue,15,6
+1443,Packaging defect,42,5.8
+1098,Fermentation issue,40,6
+1189,Contamination,48,5.2
+1260,Packaging defect,17,0
+1260,Fermentation issue,18,0
+1144,Oxidation,42,2.1
+1467,Packaging defect,11,4.5
+1467,Fermentation issue,13,4.5
+1186,Packaging defect,15,4.5
+1186,Contamination,14,4.5
+1011,Contamination,14,5.2
+1011,Oxidation,14,5.2
+1399,Off-flavor,35,6
+1306,Off-flavor,13,6
+1306,Off-flavor,13,6
+1181,Contamination,18,6
+1181,Fermentation issue,19,6
+1341,Oxidation,20,6
+1341,Fermentation issue,18,6
+1127,Fermentation issue,34,4.8
+1395,Contamination,13,5.2
+1395,Packaging defect,15,5.2
+1057,Contamination,44,6
+1033,Oxidation,19,5.8
+1033,Oxidation,17,5.8
+1237,Contamination,15,2.1
+1237,Fermentation issue,14,2.1
+1074,Packaging defect,23,2.1
+1074,Contamination,24,2.1
+1243,Packaging defect,36,5.8
+1243,Oxidation,36,5.8
+1091,Oxidation,21,5.2
+1409,Oxidation,45,5.8
+1330,Contamination,12,4.5
+1330,Packaging defect,10,4.5
+1416,Oxidation,19,5.2
+1416,Fermentation issue,19,5.2
+1279,Off-flavor,34,0
+1156,Packaging defect,18,6
+1156,Oxidation,16,6
+1369,Off-flavor,19,5.2
+1369,Fermentation issue,18,5.2
+1085,Packaging defect,17,4.8
+1085,Contamination,18,4.8
+1190,Oxidation,41,4.8
+1039,Fermentation issue,30,5.8
+1039,Fermentation issue,30,5.8
+1111,Contamination,35,0
+1414,Contamination,74,5.8
+1523,Fermentation issue,45,2.1
+1474,Off-flavor,40,5.8
+1474,Packaging defect,38,5.8
+1004,Packaging defect,43,4.8
+1379,Oxidation,38,2.1
+1104,Contamination,16,6
+1104,Oxidation,16,6
+1475,Oxidation,32,4.5
+1485,Off-flavor,21,4.5
+1485,Fermentation issue,20,4.5
+1164,Contamination,26,4.8
+1105,Oxidation,39,0
+1241,Fermentation issue,39,2.1
+1477,Oxidation,11,0
+1477,Contamination,10,0
+1253,Packaging defect,15,6
+1253,Packaging defect,14,6
+1262,Packaging defect,28,5.8
+1262,Packaging defect,28,5.8
+1521,Fermentation issue,16,4.8
+1521,Fermentation issue,15,4.8
+1334,Fermentation issue,31,4.8
+1082,Oxidation,39,4.8
+1471,Contamination,23,6
+1471,Packaging defect,24,6
+1071,Fermentation issue,23,0
+1289,Oxidation,37,5.8
+1289,Contamination,38,5.8
+1087,Packaging defect,36,4.5
+1064,Fermentation issue,17,5.2
+1064,Fermentation issue,16,5.2
+1270,Packaging defect,23,4.8
+1093,Contamination,41,4.5
+1333,Contamination,31,4.5
+1274,Oxidation,14,5.2
+1274,Packaging defect,11,5.2
+1213,Packaging defect,46,5.2
+1426,Packaging defect,18,2.1
+1426,Packaging defect,20,2.1
+1142,Fermentation issue,20,0
+1275,Packaging defect,23,4.8
+1417,Packaging defect,13,5.2
